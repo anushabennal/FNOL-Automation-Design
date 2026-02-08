@@ -3,21 +3,6 @@
 The FNOL (First Notice of Loss) Claim Processing Agent is a full-stack web application designed to automate the initial intake and routing of insurance claims.
 It uses OCR to extract information from FNOL documents, validates mandatory fields, and routes claims to the appropriate workflow with a clear explanation.
 
-🏗️ System Architecture
-User (Browser)
-   ↓
-React Frontend (File Upload UI)
-   ↓ HTTP POST (multipart/form-data)
-Flask Backend API
-   ↓
-OCR (EasyOCR)
-   ↓
-Field Extraction & Validation
-   ↓
-Rule-Based Routing Engine
-   ↓
-JSON Response (Route + Reason)
-
 ⚙️ Technologies Used
 Frontend
 
