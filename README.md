@@ -159,9 +159,4 @@ This project demonstrates real-world FNOL claim intake automation by reducing ma
 
 ---
 
-## Author
-
-Anusha Bennal  
-Final-Year CSE Student  
-FNOL Automation Project
 
