@@ -1,10 +1,12 @@
 import UploadForm from "./UploadForm";
+
 function App() {
   return (
-    <div style={{ padding: 30 }}>
-      <h2>FNOL Claim Processing Agent</h2>
+    <div className="app-container">
+      <h1>FNOL Claim Processing Agent</h1>
       <UploadForm />
     </div>
   );
 }
+
 export default App;
