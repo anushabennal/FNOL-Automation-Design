@@ -1,0 +1,6 @@
+flask
+flask-cors
+easyocr
+pillow
+pdf2image
+torch
