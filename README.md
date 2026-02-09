@@ -155,7 +155,7 @@ This project demonstrates real-world FNOL claim intake automation by reducing ma
 - End-to-end working
 - Frontend and backend connected
 - OCR-based extraction implemented
-- Ready for demo and interview
+- Ready for demo
 
 ---
 
